@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.item{
+    height: 100px;
+    width:100px;
+    color: blue;
+    background-color: aqua;
+}
+
+.holder{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+
+}
